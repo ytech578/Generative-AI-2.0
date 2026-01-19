@@ -250,7 +250,7 @@ export const ChatInput: React.FC<ChatInputProps> = ({
             value={value}
             onChange={(e) => onChange(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder="Ask Gemini"
+            placeholder="Ask Anything"
             className="w-full bg-transparent text-gemini-gray-800 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 resize-none outline-none border-none py-2 px-3 text-base font-sans no-scrollbar overflow-y-auto transition-[height] duration-300 ease-out"
           />
           {/* Fullscreen button - appears when >2 lines or expanded */}
