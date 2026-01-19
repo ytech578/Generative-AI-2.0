@@ -77,7 +77,7 @@ A modern, feature-rich of Generative AI chat interface built with React, TypeScr
 ## Project Structure
 
 ```
-gemini-clone-2.0/
+generative-ai-2.0/
 ├── src/
 │   ├── components/     # React components
 │   │   ├── icons/      # SVG icon components
