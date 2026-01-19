@@ -2,7 +2,7 @@
 
 A modern, feature-rich clone of Google's Gemini AI chat interface built with React, TypeScript, and Tailwind CSS.
 
-![Gemini Clone](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blue)
+![Generative AI](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blue)
 
 ## Features
 
@@ -38,8 +38,8 @@ A modern, feature-rich clone of Google's Gemini AI chat interface built with Rea
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gemini-clone-2.0.git
-   cd gemini-clone-2.0
+   git clone https://github.com/yourusername/generative-ai-2.0.git
+   cd generative-ai-2.0
    ```
 
 2. **Install dependencies**
