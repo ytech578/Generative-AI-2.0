@@ -19,7 +19,7 @@ export const Header: React.FC<HeaderProps> = ({ onToggleSidebar }) => {
                         <MenuIcon className="w-5 h-5" />
                     </button>
                 )}
-                <a href='/' className="text-xl font-medium text-[#444746] dark:text-[#c4c7c5]">Gemini</a>
+                <a href='/' className="text-xl font-medium text-[#444746] dark:text-[#c4c7c5]">Generative AI</a>
             </div>
             <div className="flex items-center gap-4 px-2 py-2">
                 <UserProfileMenu />
