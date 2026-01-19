@@ -1,4 +1,4 @@
-# Gemini Clone 2.0
+# Generative AI 2.0
 
 A modern, feature-rich clone of Google's Gemini AI chat interface built with React, TypeScript, and Tailwind CSS.
 
