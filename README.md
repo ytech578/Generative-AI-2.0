@@ -1,6 +1,6 @@
 # Generative AI 2.0
 
-A modern, feature-rich clone of Google's Gemini AI chat interface built with React, TypeScript, and Tailwind CSS.
+A modern, feature-rich of Generative AI chat interface built with React, TypeScript, and Tailwind CSS.
 
 ![Generative AI](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blue)
 
